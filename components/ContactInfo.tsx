@@ -97,7 +97,7 @@ export default function Contact() {
             
             <div className="relative z-10 w-full h-full bg-zinc-900 overflow-hidden rounded-sm grayscale invert contrast-[0.9] hover:grayscale-0 transition-all duration-700">
                <iframe 
-                src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3457.8260563087047!2d-51.00876572556412!3d-29.926909470526592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95190b6fd0953421%3A0x22ee3296ae57661f!2sBAHRBEARIA!5e0!3m2!1spt-BR!2sbr!4v1770627301648!5m2!1spt-BR!2sbr" 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3457.8260563087047!2d-51.00876572556412!3d-29.926909470526592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95190b6fd0953421%3A0x22ee3296ae57661f!2sBAHRBEARIA!5e0!3m2!1spt-BR!2sbr!4v1770627301648!5m2!1spt-BR!2sbr" 
                 width="100%" 
                 height="100%" 
                 style={{ border: 0 }} 
