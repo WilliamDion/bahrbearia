@@ -20,19 +20,19 @@ export default function About() {
         <div className="w-full md:w-1/2">
           <h2 className="text-4xl font-bold mb-6 text-white">Marra & Estilo</h2>
           <p className="text-zinc-400 leading-relaxed mb-6">
-            Desde 2018, trazendo os cortes que mais refletem a sua personalidade. 
-            Ambiente climatizado, chopp gelado e os melhores profissionais da região 
+            Desde 20XX, trazendo os cortes que mais refletem a sua personalidade. 
+            Ambiente climatizado e os melhores profissionais da região 
             prontos para transformar seu visual.
           </p>
           
           <ul className="space-y-3">
             <li className="flex items-center text-zinc-300">
               {/* Check - Alterado: text-primary */}
-              <span className="text-primary mr-2">✓</span> Especialistas em luzes e platinado
+              <span className="text-primary mr-2">✓</span> Especialistas em cortes masculinos
             </li>
             <li className="flex items-center text-zinc-300">
               {/* Check - Alterado: text-primary */}
-              <span className="text-primary mr-2">✓</span> Localização privilegiada perto do centro
+              <span className="text-primary mr-2">✓</span> Localização privilegiada perto da ulbra
             </li>
           </ul>
         </div>
